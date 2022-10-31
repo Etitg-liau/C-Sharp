@@ -1,0 +1,15 @@
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\S10243387_Qn03\S10243387_Qn03\obj\Debug\net6.0\S10243387_Qn03.csproj.AssemblyReference.cache
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\S10243387_Qn03\S10243387_Qn03\obj\Debug\net6.0\S10243387_Qn03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\S10243387_Qn03\S10243387_Qn03\obj\Debug\net6.0\S10243387_Qn03.AssemblyInfoInputs.cache
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\S10243387_Qn03\S10243387_Qn03\obj\Debug\net6.0\S10243387_Qn03.AssemblyInfo.cs
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\S10243387_Qn03\S10243387_Qn03\obj\Debug\net6.0\S10243387_Qn03.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\S10243387_Qn03\S10243387_Qn03\bin\Debug\net6.0\S10243387_Qn03.exe
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\S10243387_Qn03\S10243387_Qn03\bin\Debug\net6.0\S10243387_Qn03.deps.json
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\S10243387_Qn03\S10243387_Qn03\bin\Debug\net6.0\S10243387_Qn03.runtimeconfig.json
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\S10243387_Qn03\S10243387_Qn03\bin\Debug\net6.0\S10243387_Qn03.dll
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\S10243387_Qn03\S10243387_Qn03\bin\Debug\net6.0\S10243387_Qn03.pdb
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\S10243387_Qn03\S10243387_Qn03\obj\Debug\net6.0\S10243387_Qn03.dll
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\S10243387_Qn03\S10243387_Qn03\obj\Debug\net6.0\refint\S10243387_Qn03.dll
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\S10243387_Qn03\S10243387_Qn03\obj\Debug\net6.0\S10243387_Qn03.pdb
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\S10243387_Qn03\S10243387_Qn03\obj\Debug\net6.0\S10243387_Qn03.genruntimeconfig.cache
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\S10243387_Qn03\S10243387_Qn03\obj\Debug\net6.0\ref\S10243387_Qn03.dll
