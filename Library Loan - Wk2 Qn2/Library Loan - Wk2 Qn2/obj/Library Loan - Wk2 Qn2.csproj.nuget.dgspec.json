@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\X1 Carbon\\Documents\\Ngee Ann Poly\\Sem 2\\PRG2\\Week 2 - Using csv files\\Library Loan - Wk2 Qn2\\Library Loan - Wk2 Qn2\\Library Loan - Wk2 Qn2.csproj": {}
+    "C:\\Users\\X1 Carbon\\Documents\\Ngee Ann Poly\\Sem 2\\gitrepo\\C-Sharp\\Library Loan - Wk2 Qn2\\Library Loan - Wk2 Qn2\\Library Loan - Wk2 Qn2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\X1 Carbon\\Documents\\Ngee Ann Poly\\Sem 2\\PRG2\\Week 2 - Using csv files\\Library Loan - Wk2 Qn2\\Library Loan - Wk2 Qn2\\Library Loan - Wk2 Qn2.csproj": {
+    "C:\\Users\\X1 Carbon\\Documents\\Ngee Ann Poly\\Sem 2\\gitrepo\\C-Sharp\\Library Loan - Wk2 Qn2\\Library Loan - Wk2 Qn2\\Library Loan - Wk2 Qn2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\X1 Carbon\\Documents\\Ngee Ann Poly\\Sem 2\\PRG2\\Week 2 - Using csv files\\Library Loan - Wk2 Qn2\\Library Loan - Wk2 Qn2\\Library Loan - Wk2 Qn2.csproj",
+        "projectUniqueName": "C:\\Users\\X1 Carbon\\Documents\\Ngee Ann Poly\\Sem 2\\gitrepo\\C-Sharp\\Library Loan - Wk2 Qn2\\Library Loan - Wk2 Qn2\\Library Loan - Wk2 Qn2.csproj",
         "projectName": "Library Loan - Wk2 Qn2",
-        "projectPath": "C:\\Users\\X1 Carbon\\Documents\\Ngee Ann Poly\\Sem 2\\PRG2\\Week 2 - Using csv files\\Library Loan - Wk2 Qn2\\Library Loan - Wk2 Qn2\\Library Loan - Wk2 Qn2.csproj",
+        "projectPath": "C:\\Users\\X1 Carbon\\Documents\\Ngee Ann Poly\\Sem 2\\gitrepo\\C-Sharp\\Library Loan - Wk2 Qn2\\Library Loan - Wk2 Qn2\\Library Loan - Wk2 Qn2.csproj",
         "packagesPath": "C:\\Users\\X1 Carbon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\X1 Carbon\\Documents\\Ngee Ann Poly\\Sem 2\\PRG2\\Week 2 - Using csv files\\Library Loan - Wk2 Qn2\\Library Loan - Wk2 Qn2\\obj\\",
+        "outputPath": "C:\\Users\\X1 Carbon\\Documents\\Ngee Ann Poly\\Sem 2\\gitrepo\\C-Sharp\\Library Loan - Wk2 Qn2\\Library Loan - Wk2 Qn2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
