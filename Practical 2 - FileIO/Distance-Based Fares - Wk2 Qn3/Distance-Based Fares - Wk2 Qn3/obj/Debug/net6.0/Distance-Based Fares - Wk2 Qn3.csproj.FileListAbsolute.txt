@@ -1,0 +1,30 @@
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\bin\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.exe
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\bin\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.deps.json
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\bin\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.runtimeconfig.json
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\bin\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.dll
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\bin\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.pdb
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\obj\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.csproj.AssemblyReference.cache
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\obj\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\obj\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.AssemblyInfoInputs.cache
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\obj\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.AssemblyInfo.cs
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\obj\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\obj\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.dll
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\obj\Debug\net6.0\refint\Distance-Based Fares - Wk2 Qn3.dll
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\obj\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.pdb
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\obj\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.genruntimeconfig.cache
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\obj\Debug\net6.0\ref\Distance-Based Fares - Wk2 Qn3.dll
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Week 2 - Using csv files\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\bin\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.exe
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Week 2 - Using csv files\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\bin\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.deps.json
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Week 2 - Using csv files\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\bin\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.runtimeconfig.json
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Week 2 - Using csv files\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\bin\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.dll
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Week 2 - Using csv files\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\bin\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.pdb
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Week 2 - Using csv files\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\obj\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.csproj.AssemblyReference.cache
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Week 2 - Using csv files\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\obj\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Week 2 - Using csv files\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\obj\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.AssemblyInfoInputs.cache
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Week 2 - Using csv files\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\obj\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.AssemblyInfo.cs
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Week 2 - Using csv files\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\obj\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Week 2 - Using csv files\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\obj\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.dll
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Week 2 - Using csv files\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\obj\Debug\net6.0\refint\Distance-Based Fares - Wk2 Qn3.dll
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Week 2 - Using csv files\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\obj\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.pdb
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Week 2 - Using csv files\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\obj\Debug\net6.0\Distance-Based Fares - Wk2 Qn3.genruntimeconfig.cache
+C:\Users\X1 Carbon\Documents\Ngee Ann Poly\Sem 2\PRG2\Week 2 - Using csv files\Distance-Based Fares - Wk2 Qn3\Distance-Based Fares - Wk2 Qn3\obj\Debug\net6.0\ref\Distance-Based Fares - Wk2 Qn3.dll
